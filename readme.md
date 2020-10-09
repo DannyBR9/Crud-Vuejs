@@ -1,8 +1,8 @@
 
-#Curso de Vuejs :+1:
-##Comandos para iniciar:
+# Curso de Vuejs :+1:
+## Comandos para iniciar:
     1. npm i -g @vue/cli
-    2.. vue create [nameapp]
+    2. vue create [nameapp]
     3. Manualy features:
        - Babel
        - Router
